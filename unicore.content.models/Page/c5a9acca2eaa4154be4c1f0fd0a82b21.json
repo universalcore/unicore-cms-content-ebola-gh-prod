@@ -10,11 +10,13 @@
   "_version": {
     "package_version": "1.4.4", 
     "language_version": "2.7.6", 
-    "language": "python", 
     "language_version_string": "2.7.6 (default, Jun 22 2015, 18:01:27) \n[GCC 4.8.2]", 
+    "language": "python", 
     "package": "elastic-git"
   }, 
-  "linked_pages": [], 
+  "linked_pages": [
+    "0f63eab17721469ca635e634598968bf"
+  ], 
   "id": null, 
   "content": "In countries where there is an outbreak, the majority of cases in humans have occurred as a result of human-to-human transmission. Infection occurs from direct contact of body fluids such as blood, mucus, stool, urine, saliva, sweat and semen of a person who is infected. Infection can also occur if broken skin of a healthy person come into contact with environments that have become contaminated with an Ebola patient\u2019s infectious fluids such as soiled clothing, bed linen, or used needles.\r\n\r\n", 
   "source": null, 
@@ -22,7 +24,7 @@
   "author_tags": [], 
   "image": "9faab7b6b2424fd5baa7a2f488ca42d8", 
   "published": null, 
-  "position": 9, 
+  "position": 12, 
   "image_host": "http://thumbor.unicore.io", 
   "slug": "how-do-people-become-infected-with-the-virus", 
   "uuid": "c5a9acca2eaa4154be4c1f0fd0a82b21"
